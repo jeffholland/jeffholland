@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jeffholland! I'm studying for an M.M. in Music Technology at NYU.
+- 👀 I’m interested in coding for music and art (especially music) to help artists turn their dreams into reality
+- 🌱 I’m currently learning C, C++, Object-Oriented Programming, and DSP
+- 💞️ I’m looking to collaborate on any music related projects
+- 📫 How to reach me: jh6547@nyu.edu, @catfugue on Twitter
