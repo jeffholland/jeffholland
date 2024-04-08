@@ -4,4 +4,4 @@
 - 💼 Working for Etsy as a Helpdesk Engineer
 - 🎵 Interested in coding for creative applications. I want to help artists turn their dreams into reality.
 - 🔡 Python, C++, C, Rust, HTML, CSS, Javascript.
-- 📫 How to reach me: holland.musictech@gmail.com, @catfugue on Twitter
+- 📫 How to reach me: holland.musictech@gmail.com
