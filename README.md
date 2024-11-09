@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffholland!
-- 💻 Software developer, IT professional, musician, artist
-- 🎓 Graduated from NYU with an Master's degree in Music Technology
-- 🎵 Interested in coding for creative applications
-- 🔡 Python, C++, C, Rust, HTML, CSS, Javascript
-- 📫 How to reach me: holland.musictech@gmail.com
+- 💻 Software developer, IT professional, musician, artist, writer
+- 🎓 NYU Music Tech, Middlebury Comp Lit
+- 🎵 Interested in sparking creativity and solving real-world problems
+- 🔡 Python, full-stack web development, SQL, C++
+- 📫 holland.musictech@gmail.com
