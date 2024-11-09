@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeffholland!
-- 💻 Software developer, electrical engineer, musician, artist
+- 💻 Software developer, IT professional, musician, artist
 - 🎓 Graduated from NYU with an Master's degree in Music Technology
 - 🎵 Interested in coding for creative applications
 - 🔡 Python, C++, C, Rust, HTML, CSS, Javascript
